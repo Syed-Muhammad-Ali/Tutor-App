@@ -1,18 +1,36 @@
-# megamind
+#  Tutor/Tutee UI App  built with 💙 with Flutter 🎯
+### Get Started
 
-A new Flutter project.
+```shell
+git clone https://github.com/Syed-Muhammad-Ali/Tutor-App.git
+```
+```shell
+flutter clean
+```
+```shell
+flutter packages get
+```
+```shell
+flutter run
+```
 
-## Getting Started
+### App Preview
 
-This project is a starting point for a Flutter application.
+|              Screen 1              |             Screen 2           |
+| :----------------------------------: | :----------------------------------: |
+| <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%201.jpeg" width="30"> | <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%202.jpeg" width="30"> |
 
-A few resources to get you started if this is your first Flutter project:
+### Design Template
+<a href="https://www.figma.com/file/GTvFX0Bx5ErSEgN2FsGRJD/File-Manager-(Community)?node-id=27%3A8" target="_blank"><img src="https://github.com/martinoyovo/file-manager/blob/main/screenshots/thecover.png" alt="File Manager" width="60%" /></a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### ⚡️ My Social Medias
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-image.png
-![alt text](https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/assets/home/Calendar.png?raw=true)
+Twitter: [@martinoyovo](https://twitter.com/martinoyovo)
+
+Instagram: [@martinoyovo](https://instagram.com/martinoyovo)
+
+Facebook: [@martinoyovo](https://www.facebook.com/yovo.martino)
+
+LinkedIn: [@martinoyovo](https://linkedin.com/in/martino-yovo)
+
+GitHub: [@martinoyovo](https://github.com/martinoyovo)
