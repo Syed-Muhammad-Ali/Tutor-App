@@ -17,7 +17,7 @@ flutter run
 ### App Preview
 
 
- <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%201.jpeg" width="100">  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%202.jpeg" width="100"> <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%202.jpeg" width="100">  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%202.jpeg" width="100"> 
+ <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%201.jpeg" width="100">  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%202.jpeg" width="100"> <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%203.jpeg" width="100">  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%204.jpeg" width="100">   <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%205.jpeg" width="100">
 
 ### Design Template
 <a href="https://www.figma.com/file/GTvFX0Bx5ErSEgN2FsGRJD/File-Manager-(Community)?node-id=27%3A8" target="_blank"><img src="https://github.com/martinoyovo/file-manager/blob/main/screenshots/thecover.png" alt="File Manager" width="60%" /></a>
