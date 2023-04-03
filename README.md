@@ -17,7 +17,7 @@ flutter run
 ### App Preview
 
 
- <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%201.jpeg" width="90">  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%202.jpeg" width="90"> <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%203.jpeg" width="100">  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%204.jpeg" width="90">   <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%205.jpeg" width="90">
+ <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%201.jpeg" width="90">  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%202.jpeg" width="90"> <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%203.jpeg" width="90">  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%204.jpeg" width="90">   <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%205.jpeg" width="90">
  <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%206.jpeg" width="90"> <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%207.jpeg" width="90"> <img src="https://github.com/Syed-Muhammad-Ali/Tutor-App/blob/main/Screenshot/pic%208.jpeg" width="90">
 
 ###
